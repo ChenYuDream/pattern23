@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/module0-lombok-test/module0-lombok-test.iml" filepath="$PROJECT_DIR$/module0-lombok-test/module0-lombok-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module1-singleton/module1-singleton.iml" filepath="$PROJECT_DIR$/module1-singleton/module1-singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2-factory/module2-factory.iml" filepath="$PROJECT_DIR$/module2-factory/module2-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module3-builder/module3-builder.iml" filepath="$PROJECT_DIR$/module3-builder/module3-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module4-prototype/module4-prototype.iml" filepath="$PROJECT_DIR$/module4-prototype/module4-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module5-adapter/module5-adapter.iml" filepath="$PROJECT_DIR$/module5-adapter/module5-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module6-proxy/module6-proxy.iml" filepath="$PROJECT_DIR$/module6-proxy/module6-proxy.iml" />
+    </modules>
+  </component>
+</project>
